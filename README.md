@@ -1,43 +1,6 @@
 # Open Design and Technology  
 ## Final Project README
 
-> **Project Weight:** 70%  
-> **Team Size:** 2 students  
-> **Project Duration:** 4 weeks  
-> **Class Time Available:** 6 hours per class  
-> **Total Time Available:** 48 effort-hours per team  
-> **Project Type:** Playful, interactive, technology-based experience
-
----
-
-# Before you begin
-
-## Fork and rename this repository
-After forking this repository, rename it using the format:
-
-`ODT-2026-TeamName`
-
-### Example
-`ODT-2026-PixelWizards`
-
-Do not keep the default repository name.
-
----
-
-# How to use this README
-
-This file is your team’s **working project document**.
-
-You must keep updating it throughout the 4-week build period.  
-By the final review, this README should clearly show:
-- your idea,
-- your planning,
-- your design decisions,
-- your technical process,
-- your build progress,
-- your testing,
-- your failures and changes,
-- your final outcome.
 
 ## Rules
 - Fill every section.
@@ -52,20 +15,20 @@ By the final review, this README should clearly show:
 # 1. Team Identity
 
 ## 1.1 Studio / Group Name
-`[Enter your group name]`
+`[biatch ass]`
 
 ## 1.2 Team Members
 
 | Name | Primary Role | Secondary Role | Strengths Brought to the Project |
 |---|---|---|---|
-| `[Student 1]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
-| `[Student 2]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| `[Nandita Uniyal]` | `[ Coding /  Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| `[Student 2]` | `[Electronics / Coding / App / Fabrication / ]` | `[Role]` | `[Write here]` |
 
 ## 1.3 Project Title
 `[Enter the title of your project]`
 
 ## 1.4 One-Line Pitch
-`[Describe your project in one sentence]`
+`[A simulated laboratory setup where two chemical solutions are combined in a conical flask, triggering a reaction that reveals an unexpected transformation to demonstrate cause, effect, and perceptual surprise.]`
 
 ## 1.5 Expanded Project Idea
 In 1–2 paragraphs, explain:
@@ -75,7 +38,14 @@ In 1–2 paragraphs, explain:
 - what technologies are involved.
 
 **Response:**  
-`[Write here]`
+`[1.⁠ ⁠What the project is
+A simulated laboratory installation where users mix different chemical solutions in a controlled setup, observing real-time reactions that demonstrate transformation, unpredictability, and cause-and-effect within a safe, fabricated environment.
+
+2.⁠ ⁠The playful experience
+The experience gives users complete freedom to experiment, encouraging curiosity and trial-and-error as they combine substances without fixed outcomes, creating a sense of childlike exploration, suspense, and anticipation around what might happen next.
+
+3.⁠ ⁠Technology involved
+An interactive app interface enables users to control the experiment through sliders, adjusting the quantity and flow of each chemical via connected servo mechanisms that regulate the pouring process into the conical flask.]`
 
 ---
 
@@ -101,7 +71,13 @@ Answer the following:
 - Why would someone want to try it again?
 
 **Response:**  
-`[Write here]`
+`[What is the experience?
+An interactive, self-directed experiment where participants actively combine different chemical inputs and observe immediate reactions, turning the process into a continuous loop of testing, observing, and adjusting outcomes.
+What do you want the player or participant to feel?
+Intrigued, surprised, and excited.
+Why would someone want to try it again?
+To explore alternative combinations, uncover a wider range of outcomes, and gradually develop control over the results, motivating repeated interaction through experimentation and refinement.
+]`
 
 ## 2.3 Design Persona
 Complete the sentence below:
@@ -109,7 +85,7 @@ Complete the sentence below:
 > We are designing this project as if we are a small creative studio making a **[toy / game / playable object / interactive experience]** for **[children / teens / adults / classmates / exhibition visitors / mixed audience]**.
 
 **Response:**  
-`[HELLOOOOOO]`
+`[We are designing this project as if we are a small creative studio making a interactive experience for teens and exhibition visitors .]`
 
 ---
 
@@ -128,7 +104,7 @@ List what inspired the project.
 What makes your project original?
 
 **Response:**  
-`[Write here]`
+`[It’s original because it doesn’t follow a fixed outcome or scripted interaction—you’re directly controlling the experiment and discovering results in real time. The combination of a physical setup with digital control, and the fact that every outcome depends on your input, makes the experience inherently unpredictable and uniquely yours every time.]`
 
 ---
 
@@ -144,37 +120,42 @@ Examples:
 - move object → sensor detects → sound/light response → player reacts
 
 **Response:**  
-`[Write here]`
+`[control → dispense → react → observe → repeat]`
 
 ## 4.2 Intended Player / Audience
 
 | Question | Response |
 |---|---|
-| Who is this for? | `[Write here]` |
-| Age range | `[Write here]` |
-| Solo or multiplayer | `[Write here]` |
-| Expected duration of one round | `[Write here]` |
-| What should the player feel? | `[Write here]` |
-| Is explanation required before use? | `[Write here]` |
+| Who is this for? | `[Curious minds]` |
+| Age range | `[12–25 yrs]` |
+| Solo or multiplayer | `[Solo]` |
+| Expected duration of one round | `[1–2 minutes]` |
+| What should the player feel? | `[Intrigued, surprised, and excited]` |
+| Is explanation required before use? | `[Minimal intrustions]` |
 
 ## 4.3 Player Journey
 Describe exactly how a player will use the project.
 
-1. **Approach:** `[How does the player first encounter it?]`
-2. **Start:** `[How do they begin?]`
-3. **First Action:** `[What do they do first?]`
-4. **Main Interaction:** `[What keeps happening during use?]`
-5. **System Response:** `[How does the project respond?]`
-6. **Win / Lose / End Condition:** `[How does one round end?]`
-7. **Reset:** `[How does the next round begin?]`
-
+1. **Approach:** `[The player notices a lab setup with a conical flask and an interface, where sensor-activated doors open as they come closer, inviting interaction.
+]`
+2. **Start:** `[They access the control interface, preparing to begin the experiment.
+]`
+3. **First Action:** `[They select and adjust the quantities of the two chemicals using sliders.
+]`
+4. **Main Interaction:** `[They continuously modify inputs, testing different combinations and observing how each change affects the outcome.
+]`
+5. **System Response:** `[The system dispenses the chemicals into the flask, triggers a visible reaction, and responds with flashing lights at the moment of reaction, revealing an unexpected result in real time.
+]`
+6. **Win / Lose / End Condition:** `[A round ends once the reaction is complete and the final outcome is revealed, with no fixed win or lose state.
+]`
+7. **Reset:** `[The flasks are manually reset for the next round, while the lighting system automatically resets, preparing the setup for a new experiment.]`
+   
 ## 4.4 Rules of Play
 If your project is a game, list the rules clearly.
 
-- `[Rule 1]`
-- `[Rule 2]`
-- `[Rule 3]`
-- `[Rule 4]`
+not applicable
+our project is not a game it is an interactive experiance. All rules of this "experiance" are factual and not needed to be stated . EX-Users can only control the experiment through the provided interface, do not eat the chemicals)
+
 
 ---
 
@@ -183,24 +164,29 @@ If your project is a game, list the rules clearly.
 ## 5.1 Definition of “Playable”
 Your project will be considered complete only if these conditions are met.
 
-- [ ] `[Condition 1]`
-- [ ] `[Condition 2]`
-- [ ] `[Condition 3]`
-- [ ] `[Condition 4]`
-- [ ] `[Condition 5]`
+- [ ] `[The user can independently start and control the experiment through the interface
+
+]`
+- [ ] `[Chemical dispensing responds accurately to user input (sliders/controls)
+]`
+- [ ] `[A visible reaction is produced consistently after each interaction
+]`
+- [ ] `[Sensor-based elements (doors, lights) function reliably during the experience
+]`
+- [ ] `[The system can be reset (manual flask reset + automatic light reset) for repeated use]`
 
 ## 5.2 Minimum Viable Version
 What is the smallest version of this project that still delivers the core experience?
 
 **Response:**  
-`[Write here]`
+`[A basic setup with one conical flask and two controlled liquid inputs, where users adjust simple sliders to mix them and observe a visible reaction, without additional effects but retaining core interaction and outcome.]`
 
 ## 5.3 Stretch Features
 What features are nice to have but not essential?
 
-- `[Stretch feature 1]`
-- `[Stretch feature 2]`
-- `[Stretch feature 3]`
+- `[Multiple chemical options instead of just two inputs]`
+- `[Ability to “save” or recreate specific results]`
+- `[Additional sensory feedback like sound or vibration]`
 
 ---
 
@@ -209,17 +195,17 @@ What features are nice to have but not essential?
 ## 6.1 Project Type
 Check all that apply.
 
-- [ ] Electronics-based
-- [ ] Mechanical
-- [ ] Sensor-based
-- [ ] App-connected
-- [ ] Motorized
-- [ ] Sound-based
-- [ ] Light-based
-- [ ] Screen/UI-based
-- [ ] Fabricated structure
-- [ ] Game logic based
-- [ ] Installation / tabletop experience
+- [YES] Electronics-based
+- [YES ] Mechanical
+- [YES ] Sensor-based
+- [NO ] App-connected
+- [YES ] Motorized
+- [NO ] Sound-based
+- [YES ] Light-based
+- [NO ] Screen/UI-based
+- [YES ] Fabricated structure
+- [NO ] Game logic based
+- [YES ] Installation / tabletop experience
 - [ ] Other: `[Write here]`
 
 ## 6.2 High-Level System Description
