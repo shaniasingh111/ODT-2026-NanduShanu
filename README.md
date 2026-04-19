@@ -1,14 +1,4 @@
-# Open Design and Technology  
-## Final Project README
 
-
-## Rules
-- Fill every section.
-- Do not delete headings.
-- If something does not apply, write `Not applicable` and explain why.
-- Add images, screenshots, sketches, links, and videos wherever useful.
-- Update task status and weekly logs regularly.
-- Use this file as evidence of process, not only as a final report.
 
 ---
 
@@ -21,11 +11,11 @@
 
 | Name | Primary Role | Secondary Role | Strengths Brought to the Project |
 |---|---|---|---|
-| `[Nandita Uniyal]` | `[ Coding /  Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
-| `[Student 2]` | `[Electronics / Coding / App / Fabrication / ]` | `[Role]` | `[Write here]` |
+| `[Nandita Uniyal]` | `[ Coding /  Fabrication / Mechanics]` | `[Role]` | `[3d printing files]` |
+| `[Shania Singh]` | `[Electronics / Coding / ]` | `[laser cutting files]` | `[aesthetics]` |
 
 ## 1.3 Project Title
-`[Enter the title of your project]`
+`[Colour Chaos Lab]`
 
 ## 1.4 One-Line Pitch
 `[A simulated laboratory setup where two chemical solutions are combined in a conical flask, triggering a reaction that reveals an unexpected transformation to demonstrate cause, effect, and perceptual surprise.]`
@@ -73,8 +63,10 @@ Answer the following:
 **Response:**  
 `[What is the experience?
 An interactive, self-directed experiment where participants actively combine different chemical inputs and observe immediate reactions, turning the process into a continuous loop of testing, observing, and adjusting outcomes.
+
 What do you want the player or participant to feel?
 Intrigued, surprised, and excited.
+
 Why would someone want to try it again?
 To explore alternative combinations, uncover a wider range of outcomes, and gradually develop control over the results, motivating repeated interaction through experimentation and refinement.
 ]`
@@ -96,9 +88,9 @@ List what inspired the project.
 
 | Source Type | Title / Link | What Inspired You |
 |---|---|---|
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
+| `[Toy]` | `[Chemistry experiment kits]` | `[What did you learn or borrow?]` |
+| `[Object]` | `[Interactive installations]` | `[What did you learn or borrow?]` |
+| `[references]` | `[https://pin.it/5HaTeSwcE , https://pin.it/6rlKVXC76 ]` | `[What did you learn or borrow?]` |
 
 ## 3.2 Original Twist
 What makes your project original?
@@ -127,7 +119,7 @@ Examples:
 | Question | Response |
 |---|---|
 | Who is this for? | `[Curious minds]` |
-| Age range | `[12–25 yrs]` |
+| Age range | `[12 – 20 yrs]` |
 | Solo or multiplayer | `[Solo]` |
 | Expected duration of one round | `[1–2 minutes]` |
 | What should the player feel? | `[Intrigued, surprised, and excited]` |
@@ -283,12 +275,12 @@ Check all that apply.
 - [ ] Wheels
 - [ ] Sliders
 - [ ] Levers
-- [ ] Not applicable
+- [YES.] Not applicable
 
 ## 8.2 Mechanical Description
 Describe the mechanism and what it is meant to do.
 
-**Response:**  
+**Response:** 
 `[Write here]`
 
 ## 8.3 Motion Planning
@@ -300,22 +292,28 @@ If something moves, explain:
 - what could go wrong.
 
 **Response:**  
-`[Write here]`
+`[
+- what moves- Both test tubes rotate towards each other, each moving up to 120 degrees using the buttons
+- what causes the movement-  Pressing the buttons sends signals to the servo motors, triggering the motion
+- how far it moves- Each test tube rotates up to 120 degrees, one moving left and the other right
+- how fast it moves- The movement happens in steps of 30 degrees with each button press, the angle it reset to original place by pressing boththe buttons.
+- what could go wrong- With prolonged use, the servo motors may get stuck or lose precision
 
 ## 8.4 Simulation / CAD / Animation Before Making
 If your project includes mechanical motion, document the digital planning before fabrication.
 
 | Tool Used | File / Link | What Was Tested |
 |---|---|---|
-| `[Fusion 360 / Tinkercad / other]` | `[Link or screenshot]` | `[What did you validate?]` |
-| `[Tool]` | `[Link or screenshot]` | `[What did you validate?]` |
+| `[Rhino]` | `[Link or screenshot]` | `[What did you validate?]` |
+| `[Illustrator]` | `[Link or screenshot]` | `[What did you validate?]` |
 
 ## 8.5 Changes After Digital Testing
 What changed after the CAD, animation, or simulation stage?
 
 **Response:**  
-`[Write here]`
-
+We learned the limitations and permanence of materials, especially after processes like laser cutting and 3D printing, where changes are not reversible.We had to adapt the design based on how parts actually fit together in reality, not just in concept.
+EX- we changed the base structure from a simple square to a more stable form that fit in all components.
+EX- shifted the servo placement from the corners to a flat surface for better alignment and positioning.
 ---
 
 # 9. Electronics Planning
