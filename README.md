@@ -311,9 +311,9 @@ If your project includes mechanical motion, document the digital planning before
 What changed after the CAD, animation, or simulation stage?
 
 **Response:**  
-We learned the limitations and permanence of materials, especially after processes like laser cutting and 3D printing, where changes are not reversible.We had to adapt the design based on how parts actually fit together in reality, not just in concept.
+'[We learned the limitations and permanence of materials, especially after processes like laser cutting and 3D printing, where changes are not reversible.We had to adapt the design based on how parts actually fit together in reality, not just in concept.
 EX- we changed the base structure from a simple square to a more stable form that fit in all components.
-EX- shifted the servo placement from the corners to a flat surface for better alignment and positioning.
+EX- shifted the servo placement from the corners to a flat surface for better alignment and positioning.]'
 ---
 
 # 9. Electronics Planning
@@ -323,8 +323,11 @@ EX- shifted the servo placement from the corners to a flat surface for better al
 | Component | Quantity | Purpose |
 |---|---:|---|
 | `[ESP32]` | `1` | `[Main controller]` |
-| `[Component]` | `[Qty]` | `[Purpose]` |
-| `[Component]` | `[Qty]` | `[Purpose]` |
+| `[Breadboard power supply]` | `[1]` | `[Purpose]` |
+| `[servo motor]` | `[3]` | `[Purpose]` |
+| `[led strip]` | `[70 PIXELS(1)]` | `[Purpose]` |
+| `[push button]` | `[2]` | `[Purpose]` |
+| `[Sound sensor]` | `[1]` | `[Purpose]` |
 
 ## 9.2 Wiring Plan
 Describe the main electrical connections.
