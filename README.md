@@ -173,8 +173,8 @@ What is the smallest version of this project that still delivers the core experi
 ## 5.3 Stretch Features
 What features are nice to have but not essential?
 
-- `[Multiple chemical options instead of just two inputs]`
-- `[Ability to “save” or recreate specific results]`
+- `[LEDS changing colour according to the liquid]`
+- `[The aesthetics and details]`
 - `[Additional sensory feedback like sound or vibration]`
 
 ---
@@ -574,10 +574,14 @@ Expected outcomes:
 
 | Week | Planned Goal | What Actually Happened | What Changed | Next Steps |
 |---|---|---|---|---|
-| Week 1 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
-| Week 2 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
-| Week 3 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
-| Week 4 | `[Write here]` | `[Write here]` | `[Write here]` | `[Write here]` |
+| Week 1 | `[Finalize concept & basic structure]` | `[Concept discussed & roughly finalized; initial sketches and layout started]` | `[Scope slightly reduced to keep it achievable in time]` | `[Begin prototyping, test basic mechanisms]` |
+
+| Week 2 | `[Working on the code, testing and buying parts and materials]` | `[ordering parts, starting cad files]` | `[Design of base and mounting was modified for better support]` | `[Refine structure and improve component placement]` |
+
+| Week 3 | `[Integrate components and code+work on aesthetics]` | `[Components were added but required adjustments and reworking]` | `[Changed positioning of parts for better functionality and alignment]` | `[Finalize working model and fix inconsistencies]` |
+
+| Week 4 | `[Final assembly and testing]` | `[Model was completed with some last-minute fixes, turned out better than expected.]` | `[Small placement adjustments were made during final stage]` | `[Finish up repo details
+]` |
 
 ---
 
@@ -716,7 +720,11 @@ What slowed you down?
 How well did you manage time, tasks, and responsibilities?
 
 **Response:**  
-`[Write here]`
+`[Our team maintained strong coordination and we easily divided tasks based on individual strengths yet still supporting each other throughout our indiviual tasks. This allowed us to sustain a balanced and efficient workflow.
+
+I think one thing that slowed us down was getting distracted as we are quite good friends and enjoy each others company more than work (sometimes...) At times, this reduced overall efficiency during work sessions.
+
+responsibilities and  tasks were managed and divided well, We struugled with time constraints, as multiple iterations and reworking of components slowed progress.  ]`
 
 ## 19.2 Technical Reflection
 What did you learn about:
@@ -775,15 +783,18 @@ What would you improve next?
 
 **Response:**  
 `[**Response:**
-We would improve the precision and consistency of the dispensing system to achieve more controlled outcomes, expand the range of possible inputs to create more varied results, and refine the overall interaction by making the app interface smoother and the system response more immediate and reliable. ]`
+We would improve the precision and consistency of the dispensing system to achieve more controlled outcomes.
+We would add automated working doors(with a sensor)
+Improve the overall structure
+Add ]`
 
 ---
 
 # 20. Final Submission Checklist
 
 Before submission, confirm that:
-- [ ] Team details are complete
-- [ ] Project description is complete
+- [YES] Team details are complete
+- [YES ] Project description is complete
 - [ ] Inspiration sources are included
 - [ ] Player journey is written
 - [ ] Sketches are added
