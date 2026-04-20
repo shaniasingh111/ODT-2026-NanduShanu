@@ -290,11 +290,11 @@ If something moves, explain:
 
 **Response:**  
 `[
-- what moves- Both test tubes rotate towards each other, each moving up to 120 degrees using the buttons
-- what causes the movement-  Pressing the buttons sends signals to the servo motors, triggering the motion
-- how far it moves- Each test tube rotates up to 120 degrees, one moving left and the other right
-- how fast it moves- The movement happens in steps of 30 degrees with each button press, the angle it reset to original place by pressing boththe buttons.
-- what could go wrong- With prolonged use, the servo motors may get stuck or lose precision
+- what moves- [Both test tubes rotate towards each other, each moving up to 120 degrees using the buttons]
+- what causes the movement-  [Pressing the buttons sends signals to the servo motors, triggering the motion]
+- how far it moves- [Each test tube rotates up to 100 degrees, one moving left and the other right]
+- how fast it moves- [The movement happens in steps of 10 degrees with each button press, the angle it reset to original place by pressing both the buttons.]
+- what could go wrong- [With prolonged use, the servo motors may get stuck or lose precision]
 
 ## 8.4 Simulation / CAD / Animation Before Making
 If your project includes mechanical motion, document the digital planning before fabrication.
