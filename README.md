@@ -1,11 +1,8 @@
-
-
 ---
-
 # 1. Team Identity
 
 ## 1.1 Studio / Group Name
-`[shandu]`
+`[The Lab Rats]`
 
 ## 1.2 Team Members
 
@@ -252,10 +249,10 @@ Add a sketch with labels showing:
 
 | Dimension | Value |
 |---|---|
-| Length | `[Write here]` |
-| Width | `[Write here]` |
-| Height | `[Write here]` |
-| Estimated weight | `[Write here]` |
+| Length | `[28cm]` |
+| Width | `[48cm]` |
+| Height | `[28cm]` |
+| Estimated weight | `[750g]` |
 
 ---
 
